@@ -1,0 +1,17 @@
+{
+    "name": "my/easycome",
+    "description": "laravel provider test",
+    "authors": [
+        {
+            "name": "jinwei",
+            "email": "185425157@qq.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "EasyCome\\": "/src"
+        }
+    }
+}
